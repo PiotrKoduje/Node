@@ -1,0 +1,162 @@
+[
+  {
+    "gender": "male",
+    "firstName": "Daniel",
+    "lastName": "Smith",
+    "age": 49,
+    "email": "daniel.smith@gmail.com",
+    "phone": "+48-360-075-753"
+  },
+  {
+    "gender": "male",
+    "firstName": "Charles",
+    "lastName": "Williams",
+    "age": 28,
+    "email": "charles.williams@gmail.com",
+    "phone": "+48-422-433-861"
+  },
+  {
+    "gender": "female",
+    "firstName": "Susan",
+    "lastName": "Martinez",
+    "age": 47,
+    "email": "susan.martinez@gmail.com",
+    "phone": "+48-154-377-663"
+  },
+  {
+    "gender": "male",
+    "firstName": "David",
+    "lastName": "Taylor",
+    "age": 55,
+    "email": "david.taylor@gmail.com",
+    "phone": "+48-061-828-562"
+  },
+  {
+    "gender": "female",
+    "firstName": "Elizabeth",
+    "lastName": "Harris",
+    "age": 28,
+    "email": "elizabeth.harris@gmail.com",
+    "phone": "+48-758-215-074"
+  },
+  {
+    "gender": "female",
+    "firstName": "Jessica",
+    "lastName": "Davis",
+    "age": 35,
+    "email": "jessica.davis@gmail.com",
+    "phone": "+48-332-263-422"
+  },
+  {
+    "gender": "male",
+    "firstName": "Charles",
+    "lastName": "Taylor",
+    "age": 73,
+    "email": "charles.taylor@gmail.com",
+    "phone": "+48-661-187-262"
+  },
+  {
+    "gender": "male",
+    "firstName": "Joseph",
+    "lastName": "Wilson",
+    "age": 76,
+    "email": "joseph.wilson@gmail.com",
+    "phone": "+48-120-218-357"
+  },
+  {
+    "gender": "female",
+    "firstName": "Linda",
+    "lastName": "Miller",
+    "age": 70,
+    "email": "linda.miller@gmail.com",
+    "phone": "+48-234-060-834"
+  },
+  {
+    "gender": "male",
+    "firstName": "David",
+    "lastName": "Smith",
+    "age": 43,
+    "email": "david.smith@gmail.com",
+    "phone": "+48-683-375-562"
+  },
+  {
+    "gender": "male",
+    "firstName": "James",
+    "lastName": "Smith",
+    "age": 21,
+    "email": "james.smith@gmail.com",
+    "phone": "+48-672-014-102"
+  },
+  {
+    "gender": "female",
+    "firstName": "Elizabeth",
+    "lastName": "Miller",
+    "age": 35,
+    "email": "elizabeth.miller@gmail.com",
+    "phone": "+48-828-316-387"
+  },
+  {
+    "gender": "male",
+    "firstName": "David",
+    "lastName": "Brown",
+    "age": 39,
+    "email": "david.brown@gmail.com",
+    "phone": "+48-532-734-401"
+  },
+  {
+    "gender": "male",
+    "firstName": "Thomas",
+    "lastName": "Martin",
+    "age": 69,
+    "email": "thomas.martin@gmail.com",
+    "phone": "+48-504-008-436"
+  },
+  {
+    "gender": "male",
+    "firstName": "John",
+    "lastName": "Harris",
+    "age": 78,
+    "email": "john.harris@gmail.com",
+    "phone": "+48-044-124-661"
+  },
+  {
+    "gender": "male",
+    "firstName": "Michael",
+    "lastName": "Brown",
+    "age": 45,
+    "email": "michael.brown@gmail.com",
+    "phone": "+48-272-872-452"
+  },
+  {
+    "gender": "male",
+    "firstName": "Daniel",
+    "lastName": "Taylor",
+    "age": 52,
+    "email": "daniel.taylor@gmail.com",
+    "phone": "+48-166-175-432"
+  },
+  {
+    "gender": "male",
+    "firstName": "William",
+    "lastName": "Miller",
+    "age": 69,
+    "email": "william.miller@gmail.com",
+    "phone": "+48-583-484-705"
+  },
+  {
+    "gender": "female",
+    "firstName": "Sarah",
+    "lastName": "Harris",
+    "age": 63,
+    "email": "sarah.harris@gmail.com",
+    "phone": "+48-785-034-033"
+  },
+  {
+    "gender": "female",
+    "firstName": "Elizabeth",
+    "lastName": "Anderson",
+    "age": 39,
+    "email": "elizabeth.anderson@gmail.com",
+    "phone": "+48-483-813-704"
+  }
+]
